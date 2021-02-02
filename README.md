@@ -17,7 +17,7 @@ con sudo update-alternatives --config java
 
 5. Descargar [mysql-connector](https://cdn.mysql.com//Downloads/Connector-J/mysql-connector-java-5.1.49.tar.gz)
 
-6. Mover el archivo  **mysql-connector-java-5.1.49-bin.jar**  a la carpeta data-integration/bin
+6. Mover el archivo  **mysql-connector-java-5.1.49-bin.jar**  a la carpeta data-integration/lib
 
 ## TEST DISPONIBLES
 **Movies**:
